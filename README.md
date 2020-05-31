@@ -11,7 +11,7 @@ This tool patches the firmware to enable steering over CAN.
 * requires direct CAN bus communication line to EPAS (EPAS is not flashed through gateway)
 * requires an EPAS firmware update file from Tesla because a secondary bootloader
   is needed to flash the EPAS which is only available in the firmware update
-* before flashing a backup of the firmware is take from the EPAS to ensure that
+* before flashing, a backup of the firmware is taken from the EPAS to ensure that
   the firmware on your EPAS is the expected firmware and compatible
 
 ## setup
